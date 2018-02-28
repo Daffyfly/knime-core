@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DecisionTree-Node extension for KNIME Workbench
+Bundle-SymbolicName: org.vincent.DecisionTree; singleton:=true
+Bundle-Version: 1.0.0
+Bundle-ClassPath: decisiontree.jar
+Bundle-Vendor: 
+Require-Bundle: org.eclipse.core.runtime,
+ org.knime.workbench.core,
+ org.knime.workbench.repository,
+ org.knime.base,
+ org.slf4j.api,
+ org.knime.core
+Bundle-ActivationPolicy: lazy
+Export-Package: org.vincent.DecisionTree
+

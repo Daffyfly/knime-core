@@ -8,6 +8,9 @@ This repository contains the source code of [KNIME Analytics Platform](http://ww
 * _org.knime.product.*_: RCP (Rich Client Platform) definition
 * _org.knime.base.*_ and others: KNIME nodes
 
+This repository contains the source code of the node DecisionTree written by Daffyfly, the source code used for the DecisionTree can be found at https://github.com/saebyn/java-decision-tree
+This implementation aims to demonstrate the capability to compute a Machine Learning Node and find the main constraints and limitations.
+
 ### Development
 Instructions for how to develop extensions for KNIME Analytics Platform can be found in the _knime-sdk-setup_ repository on [BitBucket](https://bitbucket.org/KNIME/knime-sdk-setup) or [GitHub](http://github.com/knime/knime-sdk-setup).
 
